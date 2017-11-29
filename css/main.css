@@ -1,0 +1,92 @@
+body{
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.navegador{
+    display: block; 
+}
+.lista{
+    letter-spacing: 3px;
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    margin-top: 35px;
+    margin-left: 150px;
+}
+.enlaceNews{
+    margin-right: 25px;
+}
+.enlaceMusic{
+    margin-right: 5px;
+}
+.enlacePhotos{
+    margin-left: 20px;
+}
+.shee{
+    width: 100%;
+    height: 400px;
+}
+.biografia{
+    text-align: initial;
+    margin-left: 75px;
+    font-weight: 30px;
+    letter-spacing: 1px;
+    word-spacing: 7px;
+    word-break: 2p;
+    line-height: 21px;
+}
+.history{
+    margin-left: 50%;
+}
+.redes{
+    
+    background-color: #EEE9E2;
+}
+.gifshe{
+    width: 225px;
+    margin-left: 35%;
+}
+.red{
+    margin-left: 25%;
+}
+.inforedes{
+    margin-left: 24%;
+}
+.boton{
+    background-color: #007BFF;
+    margin-left: 9%;
+    font-size: 20px;
+}
+.album1{
+    width: 300px;
+    height: 200px;
+}
+.album2{
+    width: 300px;
+    height: 200px;
+}
+.album3{
+    width: 300px;
+    height: 200px;
+
+}
+#seccionAlbumnes{
+    margin-top: 40px;
+    margin-left: 10%;
+}
+#parrafoMinion{
+    margin-right: 20%;
+}
+#footer{
+    margin-top: 12%;
+    text-align: center;
+    /* margin-left: 30%; */
+    background-color: #343A40;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+#titleAlbum{
+    margin-top: 10%;
+}
+.contacto{
+    margin-left: 45%;
+}
