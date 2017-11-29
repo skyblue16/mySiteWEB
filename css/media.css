@@ -1,0 +1,5 @@
+@media (max-width: 824px) {
+    [class*="col-"] {
+        width: 100%;
+    }
+}
